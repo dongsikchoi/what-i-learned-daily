@@ -7,3 +7,7 @@
   
   + __Public 95 / 584__ 
   ![dacon-8-Public](https://user-images.githubusercontent.com/52738769/99760851-0b23f180-2b38-11eb-8cf8-146a7734f0b4.png)
+  
+  
++ Deep learninng basic - 모두의 딥러닝 (https://thebook.io/080228/)
+  + 실습 예제
